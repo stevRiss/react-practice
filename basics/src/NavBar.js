@@ -10,6 +10,7 @@ function NavBar(){
             <Nav.Link href="/">home</Nav.Link>
             <NavDropdown title='Droppin'>
                 <NavDropdown.Item href='/form'>Form</NavDropdown.Item>
+                <NavDropdown.Item href='/stockdata'>Stock Tracker</NavDropdown.Item>
             </NavDropdown>
         </Navbar>
         </>
